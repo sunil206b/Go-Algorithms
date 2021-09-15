@@ -1,0 +1,12 @@
+2021-09-08T21:01:50.447-0400	DEBUG	zap_logs/main.go:48	Trying to hit GET request for www.sogo.com
+2021-09-08T21:01:50.448-0400	ERROR	zap_logs/main.go:51	Error fetching URL www.sogo.com : Error = Get "www.sogo.com": unsupported protocol scheme ""
+2021-09-08T21:01:50.448-0400	DEBUG	zap_logs/main.go:48	Trying to hit GET request for http://www.sogo.com
+2021-09-08T21:01:52.643-0400	INFO	zap_logs/main.go:53	Success! statusCode = 200 OK for URL http://www.sogo.com
+2021-09-08T21:02:52.976-0400	DEBUG	zap_logs/main.go:48	Trying to hit GET request for www.google.com
+2021-09-08T21:02:52.977-0400	ERROR	zap_logs/main.go:51	Error fetching URL www.google.com : Error = Get "www.google.com": unsupported protocol scheme ""
+2021-09-08T21:02:52.977-0400	DEBUG	zap_logs/main.go:48	Trying to hit GET request for http://www.google.com
+2021-09-08T21:02:53.211-0400	INFO	zap_logs/main.go:53	Success! statusCode = 200 OK for URL http://www.google.com
+2021-09-08T21:04:21.337-0400	DEBUG	zap_logs/main.go:48	Trying to hit GET request for www.example.com
+2021-09-08T21:04:21.338-0400	ERROR	zap_logs/main.go:51	Error fetching URL www.example.com : Error = Get "www.example.com": unsupported protocol scheme ""
+2021-09-08T21:04:21.338-0400	DEBUG	zap_logs/main.go:48	Trying to hit GET request for http://www.example.com
+2021-09-08T21:04:21.410-0400	INFO	zap_logs/main.go:53	Success! statusCode = 200 OK for URL http://www.example.com

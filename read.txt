@@ -1,0 +1,11 @@
+The language had reached the level of promise that even some of the most influential developers were moving toward it.
+
+The Go community embraced TJ with open arms.
+
+So why might such a developer prefer the relative simplicity and straight-forward syntax of Go over alternative back end languages?
+
+For people like myself who are self taught, Go offered a great opportunity to dive into different areas of computer science and systems engineering.
+
+Go is similar to C, but with memory safety and a runtime for built-in concurrency. And in that regard, it is far "closer to the metal", so to speak, when it comes to interfacing with the general primitives that underlie operating systems.
+
+I now mainly build distributed systems. Prior to learning Go, my background was – like TJ – mainly in Node and JavaScript. Node does many things well, but not concurrency. And Node is no longer the tool of choice for those working on distributed systems. Instead, Go has become the go-to language.
